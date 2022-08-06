@@ -14,7 +14,7 @@
 						<div class="col-md-6 slider_left">
 							<h2>facilisis non est ut, <span>bibendum finibus est.</span></h2>
 							<p>Nulla tempus mollis nulla, a sollicitudin orci posuere sit amet. Nam sed consectetur nulla, in auctor nunc.</p>
-							<a href="#about" class="hvr-bounce-to-right read scroll"><span class="fa fa-birthday-cake" aria-hidden="true"></span>Leer más</a>
+							
 						</div>
 						<div class="col-md-6 slider_right">
 							<img src="vistas/images/cake.png" alt="cake1" />
@@ -29,7 +29,7 @@
 						<div class="col-md-6 slider_left">
 							<h3>facilisis non est ut, <span>bibendum finibus est.</span></h3>
 							<p>Nulla tempus mollis nulla, a sollicitudin orci posuere sit amet. Nam sed consectetur nulla, in auctor nunc.</p>
-							<a href="#about" class="hvr-bounce-to-right read scroll"><span class="fa fa-birthday-cake" aria-hidden="true"></span>Leer más</a>
+							
 						</div>
 						<div class="col-md-6 slider_right">
 							<img src="vistas/images/cake1.png" alt="cake1" />
@@ -44,7 +44,7 @@
 						<div class="col-md-6 slider_left">
 							<h3>facilisis non est ut, <span>bibendum finibus est.</span></h3>
 							<p>Nulla tempus mollis nulla, a sollicitudin orci posuere sit amet. Nam sed consectetur nulla, in auctor nunc.</p>
-							<a href="#about" class="hvr-bounce-to-right read scroll"><span class="fa fa-birthday-cake" aria-hidden="true"></span>Leer más</a>
+							
 						</div>
 						<div class="col-md-6 slider_right">
 							<img src="vistas/images/cake2.png" alt="cake1" />
@@ -59,7 +59,7 @@
 						<div class="col-md-6 slider_left">
 							<h3>facilisis non est ut, <span>bibendum finibus est.</span></h3>
 							<p>Nulla tempus mollis nulla, a sollicitudin orci posuere sit amet. Nam sed consectetur nulla, in auctor nunc.</p>
-							<a href="#about" class="hvr-bounce-to-right read scroll"><span class="fa fa-birthday-cake" aria-hidden="true"></span>Leer más</a>
+							
 						</div>
 						<div class="col-md-6 slider_right">
 							<img src="vistas/images/cake3.png" alt="cake1" />
