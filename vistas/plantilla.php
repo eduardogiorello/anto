@@ -11,7 +11,8 @@
 		
 <link href="http://localhost/anto/vistas/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" /><!-- bootstrap css -->
 <link href="http://localhost/anto/vistas/css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="http://localhost/anto/vistas/css/services.css" rel="stylesheet" type="text/css" media="all" /><!-- services css -->
+<link href="http://localhost/anto/vistas/css/services.css" rel="stylesheet" type="text/css" media="all" /><!-- gallery css -->
+<link href="http://localhost/anto/vistas/css/gallery.css" rel="stylesheet" type="text/css" media="all" /><!-- gallery css -->
 
 <link href="http://localhost/anto/vistas/css/font-awesome.css" rel="stylesheet"> <!-- fontawesome css -->
 <!--fonts-->
@@ -35,13 +36,19 @@
 	if(isset($_GET['pagina'])){
 		
 		if($_GET['pagina'] == 'about'){
-			include_once 'paginas/pagina.about.php';
+			include_once 'paginas/about.php';
 			
 		} elseif($_GET['pagina'] == 'services'){
 			include_once 'paginas/services.php';
 
 		} elseif($_GET['pagina'] == 'index'){
 		   include_once 'paginas/inicio.php';
+		}
+         elseif($_GET['pagina'] == 'gallery'){
+		   include_once 'paginas/galeria.php';
+		}
+        elseif($_GET['pagina'] == 'cursos'){
+		   include_once 'paginas/cursos.php';
 		}
 	} else{
 		include_once 'paginas/inicio.php';

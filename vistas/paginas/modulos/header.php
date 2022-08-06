@@ -19,11 +19,11 @@
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<nav>
 							<ul class="nav navbar-nav">
-								<li><a href="index" class="active">Inicio</a></li>
+								<li><a href="index" >Inicio</a></li>
 								<li><a href="about">Nosortos </a></li>
 								<li><a href="cursos">Cursos</a></li>
 								<li><a href="gallery">Galeria</a></li>
-								<li><a href="contact">Pedidos</a></li>
+                           <!-- <li><a href="contact">Pedidos</a></li>-->
 							</ul>
 						</nav>
 					</div>
